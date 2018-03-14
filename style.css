@@ -1,0 +1,32 @@
+* {
+  font-weight: 100;
+  font-size: 16px;
+  font-family: monospace;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  text-align: center;
+  float: none;
+
+}
+
+#title {
+  font-weight: 400;
+  font-size: 32px;
+}
+
+#weatherBtn {
+  background-color: white;
+  color: black;
+  font-weight: 300;
+  font-size: 24px;
+}
+
+#footer {
+  font-size: 8px;
+  position: fixed;
+  bottom: 1px;
+  left: 1px;
+}
