@@ -14,7 +14,7 @@ $('#weatherBtn').click(function(){
 // what will fire after pressing weatherBtn
 // if geolocation comes back 'successful'
 function success(pos) {
-  var key = '839a0a3fb8a969521811c10b4b873417';
+  var key = 'YOUR KEY HERE';
   var crd = pos.coords;
   console.log('Your current position is:');
   console.log(`Latitude : ${crd.latitude}`);
